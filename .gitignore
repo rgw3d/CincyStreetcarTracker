@@ -30,3 +30,18 @@
 *.exe
 *.out
 *.app
+
+# KiCad
+*.kicad_prl
+fp-info-cache
+**/*-backups/*
+**/plots/*
+
+# Shutup mac
+*.DS_Store
+
+# vscode
+**/.vscode/*
+
+#
+*.mp4
